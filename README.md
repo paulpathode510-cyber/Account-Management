@@ -1,6 +1,6 @@
-# Student Management System (React)
+# Account Management System (React)
 
-This is a **Student Management System** built using React, with all user data stored in the browser’s **localStorage**. It’s a simple project designed to demonstrate **user authentication, account management, and data persistence** without a backend.  
+This is a **Account Management System** built using React, with all user data stored in the browser’s **localStorage**. It’s a simple project designed to demonstrate **user authentication, account management, and data persistence** without a backend.  
 
 The goal of this project is to show how a basic web application can manage users, provide secure login/signup functionality, and handle account updates and deletion.
 
